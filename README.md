@@ -5,8 +5,9 @@ An executive-level basketball analytics project examining spatial shot efficienc
 ---
 
 ## Executive Overview
-* **Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/NBA_Spatial_Shot_Optimization/NBASpatialShotOptimizationClutchAnalysis)
-* **Tools Used:** Tableau Public, Python (Pandas, NumPy), SQL, Git/GitHub
+An executive-level basketball analytics project examining spatial shot efficiency, league-wide zone benchmarks, and primary scorer performance under high-leverage clutch conditions across 5 NBA seasons.
+
+* **Code & Queries:** Python (Pandas, NumPy), Google BigQuery SQL
 * **Dataset:** Multi-season NBA Spatial & Play-by-Play Tracking Dataset (Kaggle)
 
 ---
